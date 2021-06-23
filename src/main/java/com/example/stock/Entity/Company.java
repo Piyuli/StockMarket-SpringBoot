@@ -174,8 +174,5 @@ public class Company {
 		return "Company [id=" + id + ", turnOver=" + turnOver + ", ceo=" + ceo + ", boardDirectors=" + boardDirectors
 				+ ", briefWriteup=" + briefWriteup + ", ipo=" + ipo + ", stockExchanges=" + stockExchanges + ", sector="
 				+ sector + ", companyCodes=" + companyCodes + "]";
-	}
-	
-
-	
+	}	
 }

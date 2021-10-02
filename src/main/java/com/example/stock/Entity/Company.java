@@ -1,4 +1,9 @@
 package com.example.stock.Entity;
+
+/*
+author piyuli.agrawal
+*/
+
 import java.util.ArrayList;
 import java.util.List;
 
